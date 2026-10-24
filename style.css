@@ -35,3 +35,10 @@ body{
     color: red;
     text-decoration: underline;
 }
+.num{
+    text-align: right;
+    font-weight: bold;
+}
+footer a{
+    color: black;
+}
